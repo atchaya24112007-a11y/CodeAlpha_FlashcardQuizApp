@@ -1,52 +1,52 @@
-**Flashcard Quiz App**
+##Flashcard Quiz App##
 
   A responsive flashcard-based web application built using HTML, CSS, and JavaScript for studying various topics.
 
 **Overview**:
 
-   Displays one flashcard at a time
+  - Displays one flashcard at a time
 
-   Allows users to view questions and reveal answers
+  -  Allows users to view questions and reveal answers
 
-   Supports navigation between flashcards
+  - Supports navigation between flashcards
 
-   Designed to be generic (GK, technical, vocabulary, etc.)
+  - Designed to be generic (GK, technical, vocabulary, etc.)
 
 **Features**:
 
-  Question and answer toggle
+ - Question and answer toggle
 
-  Previous and Next navigation
+ - Previous and Next navigation
 
-  Card counter (Card X / Total)
+ - Card counter (Card X / Total)
 
-  Clean and minimal UI
+ - Clean and minimal UI
 
 **Responsive design for desktop and mobile**:
 
    Buttons
 
-   Previous – Go to previous flashcard
+  - Previous – Go to previous flashcard
 
-   Show Answer – Toggle answer visibility
+  - Show Answer – Toggle answer visibility
 
-   Next – Go to next flashcard
+  - Next – Go to next flashcard
 
 **Responsive Design**:
 
-  Uses Flexbox for layout
+ - Uses Flexbox for layout
 
-  Percentage-based widths and max-width
+ - Percentage-based widths and max-width
 
-  Adjusts automatically for mobile screens
+ - Adjusts automatically for mobile screens
   
 **Technologies Used**:
 
- HTML
+- HTML
 
- CSS
+- CSS
 
-JavaScript
+-JavaScript
 
 **Author**:
 
